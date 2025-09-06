@@ -252,7 +252,7 @@ export const SignInView = () => {
             </div>
 
             {/* Right side - Branding */}
-            <div className="hidden md:flex flex-1 bg-gradient-to-br from-green-600 to-green-800 items-center justify-center p-12">
+            <div className="hidden md:flex flex-1 bg-gradient-to-br from-sidebar-accent to-sidebar items-center justify-center p-12">
               <div className="text-center text-white space-y-4 max-w-sm">
                 <div className="mx-auto h-20 w-20 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center">
                   <img

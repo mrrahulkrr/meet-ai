@@ -454,7 +454,7 @@ export const SignUpView = () => {
             </div>
 
             {/* Right side - Branding */}
-            <div className="hidden md:flex bg-gradient-to-br from-green-600 to-green-800 items-center justify-center p-10">
+            <div className="hidden md:flex bg-gradient-to-br from-sidebar-accent to-sidebar items-center justify-center p-10">
               <div className="text-center text-white space-y-6">
                 <div className="mx-auto h-20 w-20 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center">
                   <img
